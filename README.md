@@ -1,13 +1,13 @@
 # Professional README Generator
 
 ### Table of Contents
-* [description](#description) Description
-* [installation](#installation) Installation
-* [usage](#usage) Usage
-* [license](#license) License
-* [contributions](#contributions) Contributions
-* [tests](#tests) Tests
-* [questions](#questions) Questions
+* [Description](#description) 
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributions](#contributions)
+* [Tests](#tests)
+* [Questions](#questions) 
 
 ## Description
 This is a command line application that takes prompts to help developers build a professional README on the fly.
